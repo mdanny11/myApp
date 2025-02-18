@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536276675207",
+    "project_id": "simplecalculatorapp-7aa7f",
+    "storage_bucket": "simplecalculatorapp-7aa7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536276675207:android:93a29d696593dd3a936622",
+        "android_client_info": {
+          "package_name": "com.example.simple_calculator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKp3gPaaMRueLJBESKqpIBnwHrF5WuwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
